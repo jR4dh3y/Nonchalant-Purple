@@ -27,6 +27,20 @@
 ## 📄 Usage
 This repository is a reference palette, use it freely for UI design, themes, or visual inspiration.
 
+### shadcn commands
+- Bun
+```bash
+bunx shadcn@latest add https://tweakcn.com/r/themes/cmjpmmmp8000104l2f2axdhsn
+```
+- Npm
+```bash
+npx shadcn@latest add https://tweakcn.com/r/themes/cmjpmmmp8000104l2f2axdhsn
+```
+- Pnpm
+```bash
+pnpm dlx shadcn@latest add https://tweakcn.com/r/themes/cmjpmmmp8000104l2f2axdhsn
+```
+
 ## Examples
 - [radhey.dev](https://radhey.dev) - Personal Portfolio Website
 - [Dots-niri](https://github.com/jr4dh3y/dots-niri) - Dotfiles for Niri WM
